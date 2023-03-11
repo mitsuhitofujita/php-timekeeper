@@ -2,7 +2,7 @@
     "name": "mitsuhitofujita/php-timekeeper",
     "autoload": {
         "psr-4": {
-            "Timekeeper\\": "src/"
+            "TimeKeeper\\": "src/"
         }
     },
     "authors": [
