@@ -1,0 +1,15 @@
+{
+    "name": "mitsuhitofujita/php-timekeeper",
+    "autoload": {
+        "psr-4": {
+            "Timekeeper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mitsuhito Fujita",
+            "email": "mitsuhitofujita@gmail.com"
+        }
+    ],
+    "require": {}
+}
